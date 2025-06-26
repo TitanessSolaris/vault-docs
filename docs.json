@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Vault Initiate Entry Guide",
+    "tier": "I",
+    "role": "Initiate",
+    "type": "Entry Guide",
+    "slug": "entry-guide",
+    "path": "/scrolls/tier1/entry-guide",
+    "filename": "20250626_entry-guide_v1_TierI.pdf",
+    "access": "public",
+    "summary": "An onboarding scroll for first-time Vault users to understand scroll tiers and platform behavior."
+  },
+  {
+    "title": "Scroll Protocol Overview",
+    "tier": "I",
+    "role": "Initiate",
+    "type": "Protocol",
+    "slug": "protocol-overview",
+    "path": "/scrolls/tier1/protocol-overview",
+    "filename": "20250626_protocol-overview_v1_TierI.pdf",
+    "access": "public",
+    "summary": "Outlines how Vault scrolls are activated, decrypted, and utilized within the Codex system."
+  },
+  {
+    "title": "Logistics Command SOP",
+    "tier": "III",
+    "role": "Operator",
+    "type": "SOP",
+    "slug": "logistics-command-sop",
+    "path": "/scrolls/tier3/logistics-command-sop",
+    "filename": "20250626_logistics-command-sop_v1_TierIII.pdf",
+    "access": "restricted",
+    "summary": "Standard operating procedures for systems-level command within the logistics layer of the Vault."
+  },
+  {
+    "title": "Why We Call First",
+    "tier": "III",
+    "role": "Operator",
+    "type": "Philosophy",
+    "slug": "why-we-call-first",
+    "path": "/scrolls/tier3/why-we-call-first",
+    "filename": "20250626_why-we-call-first_v1_TierIII.pdf",
+    "access": "public",
+    "summary": "A ceremonial scroll emphasizing custodial clarity and contact-first protocol philosophy."
+  },
+  {
+    "title": "Partner Elevation Memo",
+    "tier": "IV",
+    "role": "Partner",
+    "type": "Memo",
+    "slug": "partner-elevation-memo",
+    "path": "/scrolls/tier4/partner-elevation-memo",
+    "filename": "20250626_partner-elevation-memo_v1_TierIV.pdf",
+    "access": "restricted",
+    "summary": "A strategic memo outlining elevation criteria, alignment protocol, and partnership tier access."
+  },
+  {
+    "title": "Token Integrity Chain",
+    "tier": "IV",
+    "role": "Partner",
+    "type": "Ledger",
+    "slug": "token-integrity-chain",
+    "path": "/scrolls/tier4/token-integrity-chain",
+    "filename": "20250626_token-integrity-chain_v1_TierIV.pdf",
+    "access": "restricted",
+    "summary": "Ledger logic visual scroll detailing the cryptographic chain governing Vault token transactions."
+  },
+  {
+    "title": "Vault Protocol Sheet",
+    "tier": "V",
+    "role": "Strategist",
+    "type": "Codex Protocol",
+    "slug": "vault-protocol-sheet",
+    "path": "/scrolls/tier5/vault-protocol-sheet",
+    "filename": "20250626_vault-protocol-sheet_v1_TierV.pdf",
+    "access": "public",
+    "summary": "Codex-level description of system behavior, scroll activation, role control, and governance model."
+  },
+  {
+    "title": "Codex V Sovereign Edition",
+    "tier": "V",
+    "role": "Strategist",
+    "type": "Codex Master Scroll",
+    "slug": "codex-sovereign",
+    "path": "/scrolls/tier5/codex-sovereign",
+    "filename": "20250626_codex-sovereign_v1_TierV.pdf",
+    "access": "internal",
+    "summary": "The Sovereign master scroll used by AI to understand Vault structure and initiate scroll logic."
+  },
+  {
+    "title": "Advisor Override Guide",
+    "tier": "V",
+    "role": "Internal Dev",
+    "type": "Override Guide",
+    "slug": "advisor-override-guide",
+    "path": "/internal/tier5/advisor-override-guide",
+    "filename": "20250626_advisor-override-guide_v1_TierV.pdf",
+    "access": "hidden",
+    "summary": "Internal use only. Manual for overriding Copilot logic and performing tier escalations securely."
+  }
+]
