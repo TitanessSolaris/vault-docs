@@ -1,0 +1,9 @@
+This commit is GPG signed by:
+TITANESS SOLARIS (Vault Signing Key)
+Email: sovereign@titansovereign.com
+Key ID: EC1A4ACE61DF73FE
+Created: 2025-07-04
+
+This signature certifies that all VaultDocs assets are institutionally committed under sovereign cryptographic control.
+
+— Titan Sovereign
